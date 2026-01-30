@@ -1,1 +1,1 @@
-# manufacturing-defect-detection
+#Quality-control-manufacturing
